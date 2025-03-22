@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "start": "npx ts-node src/index.ts"
+  },
+  "name": "intergratewithazure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "@azure/identity": "^4.8.0",
+    "@azure/keyvault-secrets": "^4.9.0",
+    "@types/node": "^22.13.11",
+    "@types/nodemailer": "^6.4.17",
+    "axios": "^1.8.4",
+    "dotenv": "^16.4.7",
+    "nodemailer": "^6.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
